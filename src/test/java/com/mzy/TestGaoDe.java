@@ -14,8 +14,9 @@ public class TestGaoDe {
 
     @Test
     public void test1(){
-
-        String city = GaoDeMapUtils.getLonLarByAddress("永济市");
+        //永济 110.447549,34.867050
+        //焦作 113.241823,35.215892
+        String city = GaoDeMapUtils.getLonLarByAddress("郑州市");
 
         System.out.println(city);
     }

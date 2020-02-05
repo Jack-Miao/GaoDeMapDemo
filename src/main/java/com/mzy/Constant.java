@@ -10,7 +10,7 @@ public class Constant {
     /**
      * 高德地图请求秘钥
      */
-    private static final String KEY = "密钥,可以去高德地图免费申请";
+    private static final String KEY = "233724e1edb9abd44b3075edc68ea135";
     /**
      * 返回值类型
      */
